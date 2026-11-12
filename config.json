@@ -1,9 +1,12 @@
 {
   "world" : {
     "width": 1200,
-    "height": 780
+    "height": 780,
+    "grid_size": 3
   },
   "ant" : {
-    "count": 400000
-  }
+    "count": 40,
+    "capacity": 5
+  },
+  "tps" : 60
 }
